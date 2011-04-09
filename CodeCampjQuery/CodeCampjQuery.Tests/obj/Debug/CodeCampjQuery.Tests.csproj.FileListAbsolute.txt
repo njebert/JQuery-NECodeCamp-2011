@@ -1,0 +1,13 @@
+C:\Users\nebert\Documents\Sandbox\CodeCamp\CodeCampjQuery.Tests\bin\Debug\CodeCampjQuery.Tests.dll.config
+C:\Users\nebert\Documents\Sandbox\CodeCamp\CodeCampjQuery.Tests\bin\Debug\CodeCampjQuery.Tests.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\CodeCampjQuery.Tests\bin\Debug\CodeCampjQuery.Tests.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\CodeCampjQuery.Tests\bin\Debug\CodeCampjQuery.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\CodeCampjQuery.Tests\bin\Debug\CodeCampjQuery.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\CodeCampjQuery.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nebert\Documents\Sandbox\CodeCamp\CodeCampjQuery.Tests\obj\Debug\CodeCampjQuery.Tests.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\CodeCampjQuery.Tests\obj\Debug\CodeCampjQuery.Tests.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\CodeCampjQuery.Tests\bin\Debug\Content\Images\animals-q-c-800-600-5.jpg
+C:\Users\nebert\Documents\Sandbox\CodeCamp\CodeCampjQuery.Tests\bin\Debug\Content\Images\scrollingbackground.png
+C:\Users\nebert\Documents\Sandbox\CodeCamp\CodeCampjQuery.Tests\bin\Debug\Content\Images\pb1.png
+C:\Users\nebert\Documents\Sandbox\CodeCamp\CodeCampjQuery.Tests\bin\Debug\Content\Images\pb2.png
+C:\Users\nebert\Documents\Sandbox\CodeCamp\CodeCampjQuery.Tests\bin\Debug\Content\Images\pbackground.jpg

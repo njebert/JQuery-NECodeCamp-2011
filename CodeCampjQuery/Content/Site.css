@@ -1,0 +1,145 @@
+﻿body
+{
+    background-color: #605645;
+    font-family: Verdana, Helvetica, Sans-Serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* PRIMARY LAYOUT ELEMENTS   
+----------------------------------------------------------*/
+
+/* you can specify a greater or lesser percentage for the 
+page width. Or, you can specify an exact pixel width. */
+.page
+{
+    margin-top: 12px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#main
+{
+    padding: 10px;
+    min-height: 768px;
+    background-color: #fff;
+    margin-bottom: 30px;
+    _height: 1px; /* only IE6 applies CSS properties starting with an underscore */
+}
+
+#footer
+{
+    text-align: center;
+    line-height: normal;
+    margin: 0;
+    font-size: .9em;
+}
+
+td, th
+{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+table
+{
+    border-spacing: 0;
+}
+
+/* MISC  
+----------------------------------------------------------*/
+.clear
+{
+    clear: both;
+}
+
+.adWrapper
+{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mainAd
+{
+    padding-top: 20px;
+    height: 600px;
+    width: 800px;
+    background-image: url("Images/animals-q-c-800-600-5.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+.popBox
+{
+    margin-left: 30px;
+    margin-bottom: 20px;
+    height: 100px;
+    width: 200px;
+    background-color: white;
+    opacity: .4;
+    border: 2px solid black;
+}
+
+.highlight
+{
+    opacity: .8;
+}
+
+
+.detail
+{
+    padding-left:50px;
+}
+
+.backgroundHeader
+{
+    min-height: 410;
+    padding-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    background-image: url("Images/scrollingbackground.png");
+    background-repeat: repeat-x;
+    background-attachment: scroll;
+}
+
+.foreGroundContent
+{
+    background-color: White;
+    font-size: 3em;
+    font-weight: bold;
+    opacity: .8;
+    height: 200px;
+}
+
+
+.pbackground
+{
+    background-image: url("Images/pbackground.jpg");
+    background-repeat: no-repeat;
+    position: relative;
+    height: 415px;
+    width: 800px;
+}
+
+.pb1
+{
+    position: absolute;
+    left: 450px;
+    top: 100px;
+}
+
+.pb2
+{
+    position: absolute;
+    left: 200px;
+    top: 50px;
+}
+
+.ajaxBackground
+{
+    background-image: url("Images/ajaxbackground.jpg");
+    background-repeat: repeat-y;
+    width: 800px;
+}

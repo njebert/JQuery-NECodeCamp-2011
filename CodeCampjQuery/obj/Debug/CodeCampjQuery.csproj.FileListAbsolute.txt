@@ -1,0 +1,10 @@
+C:\Users\nebert\Documents\Sandbox\CodeCamp\zip\CodeCampjQuery\bin\Content\Images\animals-q-c-800-600-5.jpg
+C:\Users\nebert\Documents\Sandbox\CodeCamp\zip\CodeCampjQuery\bin\Content\Images\pb1.png
+C:\Users\nebert\Documents\Sandbox\CodeCamp\zip\CodeCampjQuery\bin\Content\Images\pb2.png
+C:\Users\nebert\Documents\Sandbox\CodeCamp\zip\CodeCampjQuery\bin\Content\Images\pbackground.jpg
+C:\Users\nebert\Documents\Sandbox\CodeCamp\zip\CodeCampjQuery\bin\Content\Images\scrollingbackground.png
+C:\Users\nebert\Documents\Sandbox\CodeCamp\zip\CodeCampjQuery\bin\CodeCampjQuery.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\zip\CodeCampjQuery\bin\CodeCampjQuery.pdb
+C:\Users\nebert\Documents\Sandbox\CodeCamp\zip\CodeCampjQuery\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nebert\Documents\Sandbox\CodeCamp\zip\CodeCampjQuery\obj\Debug\CodeCampjQuery.dll
+C:\Users\nebert\Documents\Sandbox\CodeCamp\zip\CodeCampjQuery\obj\Debug\CodeCampjQuery.pdb
